@@ -1,0 +1,58 @@
+body{
+  background-color:#1A2930;
+  color:white;
+}
+td {
+border:solid ;
+height: 110px;
+width: 100px;
+border-width:2.5px;
+  border-color:#20B2AA;
+  cursor:pointer;
+
+
+}
+table{
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:70px;
+  margin-bottom:30px;
+}
+.cube{
+  font-size:65px; 
+}
+.contain{
+ 
+  width:600px;
+  height:600px;
+  margin-left:auto;
+  margin-right:auto;
+  
+}
+.blo{
+  margin-bottom:25px;
+  font-size:18px;
+}
+.btn{
+  margin-left:20px;
+  margin-right:20px;
+  font-size:17px;
+}
+.bord{
+  border:solid;
+  color:white;
+  border-color:teal;
+}
+h1{
+  margin-top:40px;
+  
+}
+
+
+
+
+
+   
+      
+       
+      
